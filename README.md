@@ -95,7 +95,7 @@
             <td>
                 <code>среща 5</code>
                 <br>
-                <sub>📅22.06.2024</sub>
+                <sub>📅25.06.2024</sub>
             </td>
             <td>
                 <a href="./@meets/meet-05/README.md">
